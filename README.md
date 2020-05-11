@@ -1,2 +1,3 @@
 # my-first-repo
-テスト
+This is my awesome repo
+
